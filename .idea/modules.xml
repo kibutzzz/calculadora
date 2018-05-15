@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bsh-2.0b4/bsh-2.0b4.iml" filepath="$PROJECT_DIR$/bsh-2.0b4/bsh-2.0b4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculadora.iml" filepath="$PROJECT_DIR$/.idea/modules/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora.iml" filepath="$PROJECT_DIR$/calculadora.iml" />
+      <module fileurl="file://C:\Users\20151inf0107\AndroidStudioProjects\calculadora\.idea\modules\calculadora.iml" filepath="C:\Users\20151inf0107\AndroidStudioProjects\calculadora\.idea\modules\calculadora.iml" />
     </modules>
   </component>
 </project>
